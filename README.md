@@ -28,8 +28,10 @@ jupyter notebook pacman.ipynb
 
 ## 🎥 Demo
 Check out how the AI plays Pac-Man!
+<p align="center">
+  <img src="final_video.gif" width="400">
+</p>
 
-![Training Progress](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
 
 ## 📜 License
 This project is open-source and available under the MIT License.
